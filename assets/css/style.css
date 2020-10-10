@@ -4,6 +4,9 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+
+
 .center {
   display: block;
   margin-left: auto;
@@ -416,6 +419,7 @@ section {
   color: #FFD500;
 }
 
+
 .about .content p:last-child {
   margin-bottom: 0;
 }
@@ -787,6 +791,9 @@ section {
   fill: #47aeff;
 }
 
+.ico{
+  color: #ffa76e;
+}
 .services .iconbox-orange i {
   color: #ffa76e;
 }

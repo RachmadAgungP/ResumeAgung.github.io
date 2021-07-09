@@ -22,7 +22,7 @@ body {
 }
 
 a {
-  color: #FFD500;
+  color: #00a253;
 }
 
 a:hover {
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #FFD500;
+  background: #00a253;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #FFD500;
+  border: 6px solid #00a253;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   padding: 15px;
   overflow-y: auto;
-  background-color: #263238;
+  background-color: #d99c31;
 }
 
 @media (max-width: 992px) {
@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
   color: #fff;
-  background: #FFD500;
+  background: #00a253;
 }
 
 .nav-menu a:hover span, .nav-menu .active > a span, .nav-menu li:hover > a span {
@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #FFD500;
+  color: #00a253;
 }
 
 /*--------------------------------------------------------------
@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p span {
-  color: #FFD500;
+  color: #00a253;
   letter-spacing: 1px;
 }
 
@@ -311,7 +311,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .social-links a:hover {
-  color: #FFD500;
+  color: #00a253;
 }
 
 @media (max-width: 992px) {
@@ -369,7 +369,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #FFD500;
+  background: #00a253;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -390,7 +390,7 @@ section {
 
 #about:before {
   content: "";
-  background: #bad4e081;
+  background: #fadba7e7;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -416,7 +416,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #FFD500;
+  color: #00a253;
 }
 
 
@@ -476,7 +476,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #FFD500;
+  background-color: #00a253;
 }
 
 /*--------------------------------------------------------------
@@ -511,7 +511,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #FFD500;
+  border-left: 2px solid #00a253;
   position: relative;
 }
 
@@ -521,7 +521,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #FFD500;
+  color: #00a253;
   margin-bottom: 10px;
 }
 
@@ -555,7 +555,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #FFD500;
+  border: 2px solid #00a253;
 }
 
 /*--------------------------------------------------------------
@@ -589,7 +589,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #FFD500;
+  color: #00a253;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -923,7 +923,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #FFD500 !important;
+  background-color: #00a253 !important;
 }
 
 @media (min-width: 992px) {
@@ -942,7 +942,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #FFD500;
+  color: #00a253;
   float: left;
   width: 44px;
   height: 44px;
@@ -974,7 +974,7 @@ section {
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #FFD500;
+  background: #00a253;
   color: #fff;
 }
 
@@ -1052,7 +1052,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #FFD500;
+  background: #00a253;
   border: 0;
   padding: 10px 35px;
   color: #fff;
@@ -1110,7 +1110,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #FFD500 !important;
+  background-color: #00a253 !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -1178,7 +1178,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #FFD500;
+  background: #00a253;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
